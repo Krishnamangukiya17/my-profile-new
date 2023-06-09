@@ -37,8 +37,12 @@ header nav ul li a{
     float:left;
     margin-right: 100px;
 }
-.contactInfo{
+.contactInfo h2 p{
     padding-top: 60px;
+    color: #0D5C63;
+}
+#color{
+    color: #0D5C63;
 }
 .contactInfo h2{
     color: #0D5C63;
